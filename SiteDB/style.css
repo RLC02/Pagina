@@ -1,0 +1,85 @@
+body{
+    background-image: url(img/Fundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial;
+    color: white;
+}
+.navbar{
+    background-image: url(img/Fundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: 7px double black;
+    font-family:Arial;
+    border-radius: 20px;
+}
+.accordion-item{
+    font-family: Arial;
+    background-color: #22005569;
+    color: white;
+    
+}
+.accordion-button{  
+    font-family: Arial;
+    background-color:#2053;
+    font-family: Arial;
+    color: white;
+   
+}
+
+.navbar-brand{
+        font-family: Sayan-Sans ;
+        font-size: 50px;
+        color: black;
+}
+
+#text-element {
+    font-family: Sayan-Sans
+  }
+
+@font-face {
+    font-family: Sayan-Sans;
+    src: url(img/Saiyan-Sans.ttf) 
+  }
+ 
+.figure-caption{
+    font-family: Sayan-Sans ;
+    color: black;
+    font-size: xx-large;
+}
+
+.accordion-header{
+    font-family: Arial;
+    color: white;
+
+}
+
+.nav-link{
+    border: 4px double black;
+    border-style: double;
+    font-family: Sayan-Sans;
+    font-size:xx-large;
+    border-radius: 20px;
+
+}
+
+.textos{
+    background-color:rgba(34, 0, 85, 0.411);
+    border-radius: 30px;
+    padding: 20px;
+    font-family: Arial;
+    color: white;
+
+}
+
+.carousel-inner{
+    border-radius: 25px;
+}
+
+#texti{
+    font-family: Sayan-Sans ;
+        font-size: 50px;
+        color: black;
+}
